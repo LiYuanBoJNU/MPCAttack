@@ -3,7 +3,7 @@
 This repository is the official implementation of *Multi-Paradigm Collaborative Adversarial Attack Against Multimodal Large Language Models*.
 
 <div align="center">
-    <img src="images/illustration.png" width="600px" />
+    <img src="images/illustration.png" width="1000px" />
 </div>
 
 > Overview of the proposed MPCAttack: (a) Pipeline for MPCAttack in adversarial examples generation. (b) Pipeline for attacking MLLMs.
