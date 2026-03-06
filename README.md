@@ -1,7 +1,7 @@
 # Multi-Paradigm Collaborative Adversarial Attack Against Multimodal Large Language Models
 
 This repository is the official implementation of *Multi-Paradigm Collaborative Adversarial Attack Against Multimodal Large Language Models*.
-[[Paper](https://arxiv.org/abs/2603.04839)]
+[[Paper](https://arxiv.org/abs/2603.04846)]
 
 <div align="center">
     <img src="images/illustration.png" width="1000px" />
