@@ -100,31 +100,18 @@ pip install -r requirements.txt
 
 ## Acknowledgments
 
-
 We sincerely thank [M-Attack](https://github.com/VILA-Lab/M-Attack/tree/main) and [FoA-Attack](https://github.com/jiaxiaojunQAQ/FOA-Attack) for their outstanding work.
 
 ## Citation
 
 
-[//]: # (```)
+```
+@article{li2026multi,
+  title={Multi-Paradigm Collaborative Adversarial Attack Against Multi-Modal Large Language Models},
+  author={Li, Yuanbo and Xu, Tianyang and Hu, Cong and Zhou, Tao and Wu, Xiao-Jun and Kittler, Josef},
+  journal={arXiv preprint arXiv:2603.04846},
+  year={2026}
+}
 
-[//]: # ()
-[//]: # (@article{nie2025v,)
 
-[//]: # ()
-[//]: # (  title={V-Attack: Targeting Disentangled Value Features for Controllable Adversarial Attacks on LVLMs},)
-
-[//]: # ()
-[//]: # (  author={Nie, Sen and Zhang, Jie and Yan, Jianxin and Shan, Shiguang and Chen, Xilin},)
-
-[//]: # ()
-[//]: # (  journal={arXiv preprint arXiv:2511.20223},)
-
-[//]: # ()
-[//]: # (  year={2025})
-
-[//]: # ()
-[//]: # (})
-
-[//]: # ()
-[//]: # (```)
+```
